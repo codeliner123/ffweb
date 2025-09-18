@@ -24,8 +24,8 @@ const Homepage: React.FC = () => {
 
   const testimonials = [
     {
-      name: "Sophitha",
-      college: "Stella Maris",
+      name: "",
+      college: "",
       quote:
         "I have known Jey for years from having him as the goofiest student in class to becoming one of the most capable people I've ever met and when he told me about Future Found I was thrilled to Join without a second thought",
       avatar:
@@ -40,8 +40,8 @@ const Homepage: React.FC = () => {
         "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=150",
     },
     {
-      name: "Amithini",
-      college: "Chirst University",
+      name: "",
+      college: "",
       quote:
         "The idea of tracking our impact excites me! Knowing that we’ll soon be able to see the real numbers of lives impacted will make every hour of volunteering feel even more meaningful.",
       avatar:
